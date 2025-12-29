@@ -10,7 +10,6 @@ at the end of this **week** , I plan to:
 3. Share Markdown notes
 
 My  favorite quote is:
-
 > If you didnt get it the first time
 > dont dispair
 > try and try again
