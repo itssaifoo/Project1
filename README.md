@@ -14,3 +14,30 @@ My  favorite quote is:
 > dont dispair
 > try and try again
 > ~ Saif
+
+# ** _first level_ **
+## ~~second level~~
+### ***third level***
+
+Iam going to quote myself here
+>I can code
+ 
+lets test this `git status`
+
+and here are more commands
+
+
+``` 
+git status
+git add 
+git commit
+```
+
+the background colour is `#ffffff ` for light mode and `#000000` for darkmode.  
+
+# **Testing Links here** 
+
+[GitHub Pages](https://pages.github.com/)
+
+### also we can include section links
+
