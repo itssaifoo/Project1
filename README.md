@@ -40,4 +40,3 @@ the background colour is `#ffffff ` for light mode and `#000000` for darkmode.
 [GitHub Pages](https://pages.github.com/)
 
 ### also we can include section links
-
